@@ -1,10 +1,11 @@
-# Coy Discover — Take-home Assignment
+# Coy Discover — Take-home Work
+ <img src="./frontend/public/FrontPage.png" alt="Project Banner">
 
 Swipe-based discovery (like Bumble/Tinder) as a **Discover** tab alongside a blank Home placeholder. Mutual matches only — who liked you is never revealed unless both sides liked.
 
 ## Stack
 
-- **Frontend:** Next.js (App Router) + TypeScript + Tailwind + Framer Motion
+- **Frontend:** Next.js (App Router) + TypeScript + Tailwind 
 - **Backend:** Node.js + Express
 - **Data:** JSON file (`backend/data/db.json`) — persists across reloads
 
@@ -58,3 +59,13 @@ frontend/
   src/app/        # Next.js pages
   src/components/ # Swipe deck, match modal, matches list, tab bar
 ```
+## ScreeShots of the Contents
+
+1. Home Page
+ <img src="./frontend/public/Home.png" alt="Home Page">
+
+2. Matches List Page
+ <img src="./frontend/public/matches.png" alt="Match Page">
+
+3. Matching 
+ <img src="./frontend/public/Match.png" alt="Matching">
